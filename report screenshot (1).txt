@@ -1,0 +1,15 @@
+Dashboard1: 
+
+https://public.tableau.com/app/profile/kosuri.lakshmi.sowjanya/viz/pro_17507582009030/Dashboard1?publish=yes
+
+Dashboard2:
+https://public.tableau.com/app/profile/kosuri.lakshmi.sowjanya/viz/pro_17507582009030/Dashboard2?publish=yes
+
+
+Description:
+This interactive dashboard provides a visual exploration of UNESCO World Heritage Sites. It allows users to filter data by country, site category (Cultural, Natural, Mixed), and region. It includes map-based visualization, bar charts, and historical trends that help in identifying endangered sites and global distribution patterns.
+ Features Highlighted:
+* Dynamic geospatial map of heritage sites
+* Filterable charts for country-wise and category-wise analysis
+* Time-based insights to analyze trends and site listings
+
